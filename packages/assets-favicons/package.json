@@ -1,17 +1,17 @@
 {
-  "name": "@lobehub/assets-favicons",
-  "version": "1.4.0",
+  "name": "@yelong0201/assets-favicons",
+  "version": "1.0.0",
   "description": "Favicons for LobeHub",
   "keywords": [
     "favicon"
   ],
-  "homepage": "https://github.com/lobehub/lobe-assets",
+  "homepage": "https://github.com/zhangyelong/lobe-assets",
   "bugs": {
-    "url": "https://github.com/lobehub/lobe-assets/issues/new"
+    "url": "https://github.com/zhangyelong/lobe-assets/issues/new"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lobehub/lobe-assets.git"
+    "url": "https://github.com/zhangyelong/lobe-assets.git"
   },
   "license": "MIT",
   "author": "LobeHub <i@lobehub.com>",
