@@ -1,5 +1,5 @@
 {
-  "name": "@lobehub/emojilib",
+  "name": "@yelong0201/emojilib",
   "version": "1.1.0",
   "description": "Emoji data from unicode.org",
   "keywords": [
@@ -20,15 +20,6 @@
   "files": [
     "index.json"
   ],
-  "scripts": {
-    "build": "node src/index.js",
-    "prepack": "clean-pkg-json"
-  },
-  "devDependencies": {
-    "@types/node": "latest",
-    "clean-pkg-json": "^1",
-    "unicode-emoji-json": "latest"
-  },
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"
