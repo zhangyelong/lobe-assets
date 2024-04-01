@@ -1,7 +1,7 @@
 {
   "name": "@yelong0201/assets-logo",
-  "version": "1.0.0",
-  "description": "Logo assets for LobeHub",
+  "version": "2.0.0",
+  "description": "Logo assets for Bianjie",
   "keywords": [
     "favicon"
   ],
@@ -14,7 +14,7 @@
     "url": "https://github.com/zhangyelong/lobe-assets.git"
   },
   "license": "MIT",
-  "author": "LobeHub <i@lobehub.com>",
+  "author": "Bianjie <i@example.com>",
   "sideEffects": false,
   "files": [
     "assets"

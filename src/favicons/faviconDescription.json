@@ -10,7 +10,7 @@
         "precomposedIcons": false,
         "declareOnlyDefaultIcon": true
       },
-      "appName": "LobeHub"
+      "appName": "Bianjie"
     },
     "desktopBrowser": {
       "design": "raw"
@@ -28,13 +28,13 @@
           "rectangle": true
         }
       },
-      "appName": "LobeHub"
+      "appName": "Bianjie"
     },
     "androidChrome": {
       "pictureAspect": "noChange",
       "themeColor": "#000000",
       "manifest": {
-        "name": "LobeHub",
+        "name": "Bianjie",
         "display": "standalone",
         "orientation": "notSet",
         "onConflict": "override",

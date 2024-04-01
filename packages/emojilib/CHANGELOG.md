@@ -2,7 +2,7 @@
 
 # Changelog
 
-## Version 1.0.0
+## Version 1.0.0
 
 <sup>Released on **2023-07-26**</sup>
 
@@ -17,7 +17,7 @@
 
 #### What's improved
 
-- **misc**: Add emojilib ([624c116](https://github.com/lobehub/lobe-assets/commit/624c116))
+- **misc**: Add emojilib ([624c116](https://github.com/zhangyelong/lobe-assets/commit/624c116))
 
 </details>
 
